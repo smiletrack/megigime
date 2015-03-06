@@ -6,5 +6,7 @@ a{
   color: #00ff33;
 }
 button{
-  color:#00ffff;
+  border-color: #00ffff;
+  background: #ff5050;
+  color: #00ffff;
 }
