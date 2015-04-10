@@ -7,7 +7,6 @@ a{
   color: #00ff33;
   font-family: Georgia;
   font-size: 200;
-  text-align: center;
 }
 button{
   border-color: #00ff33;
@@ -19,8 +18,7 @@ button{
 }
 #holderofgigi{
   width:780px;
-    margin: auto;
-    text-align: center;
+  margin: auto;
 }
 h4{
   font-family: Georgia;
